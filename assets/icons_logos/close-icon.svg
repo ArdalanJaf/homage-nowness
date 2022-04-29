@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="-0.087" y="-1.941" width="500.79" height="505.767" style="stroke: rgb(0, 0, 0);"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(255, 255, 255); stroke-width: 15px;" x1="102.535" y1="98.457" x2="397.231" y2="410.074"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(255, 255, 255); stroke-width: 15px;" x1="97.695" y1="408.561" x2="400.376" y2="94.555" transform="matrix(-1, 0, 0, -1, 498.070999, 503.116013)"/>
+</svg>
