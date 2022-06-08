@@ -1,6 +1,6 @@
 # Homage-piece: Nowness
 
-[Website](https://homage-nowness.netlify.app/) created to demonstrate styling abilities. [Nowness](https://www.nowness.com/) was chosen as its home page includes a multitude of different design features. Fully-adaptable.
+[Website](https://homage-nowness.netlify.app/) created to demonstrate styling abilities. [Nowness](https://www.nowness.com/) was chosen as its home page includes a multitude of different design features. Fully-adaptive.
 
 ## Software
 
