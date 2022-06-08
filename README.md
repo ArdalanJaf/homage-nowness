@@ -9,4 +9,4 @@
 
 ### Notes
 
-Whilst the site displays as intended, there are a number of HTML errors if put through validator (such as <Div> inside <Label> for some icons). With input from mentors, I judged it not worth the reformating required to remove these errors, over spending time learning new things. However it has served as a useful lesson in conforming to HTML write-up best-practices.
+Whilst the site displays as intended, there are a number of HTML errors if put through validator (such as Div-tag inside Label-tag for some icons). With input from mentors, I judged it not worth the reformating required to remove these errors, over spending time learning new things. However it has served as a useful lesson in conforming to HTML write-up best-practices.
